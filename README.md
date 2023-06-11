@@ -1,4 +1,4 @@
-**# EXP 09 - BIRTHDAY CARD
+### EXP 09 - BIRTHDAY CARD
 
 ## AIM:
 
@@ -68,4 +68,4 @@ To create a Birthday card using HTML and CSS
 
 ## RESULT
 
-So,  a birthday card is created using CSS and HTML.**
+So,  a birthday card is created using CSS and HTML.
